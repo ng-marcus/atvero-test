@@ -1,13 +1,14 @@
 ---
-title: Magna etiam sed lorem ipsum dolor amet
+title: Edited by Marcus
 subtitle: A cautionary tale about Magna etiam
-excerpt: >-
-  Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum
-  blandit dolor elementum viverra. Sed quat a diam, aliquet tempus felis.
-  Phasellus et magna vitae nibh porttitor tempus vitae.
-date: '2016-09-04'
+excerpt: Phasellus in ante vitae nibh porttitor tempus vitae ut ante. Vestibulum blandit
+  dolor elementum viverra. Sed quat a diam, aliquet tempus felis. Phasellus et magna
+  vitae nibh porttitor tempus vitae.
+date: 2016-09-04
 thumb_img_path: images/art.svg
 template: post
+content_img_path: ''
+
 ---
 <section class="content">
   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla orci diam, elementum consectetur elit non, tempus varius leo. In ut bibendum mauris. Vestibulum mattis pharetra enim. Maecenas ornare vulputate nisi sed condimentum. Fusce sit amet cursus nunc. Vivamus malesuada posuere mollis. Aliquam facilisis neque eget ligula aliquam consequat.</p>
